@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UyAMOrCjfkDk3KHSTR5G1kei53wIx02WwzNysJ7IOVWDom/mt/Sv+wr9YE1U6cGQ7KJLKLTxESJvOz5nos302A==",
+  "dgSpecHash": "XiXyKiUGAm4We9uXffVW0/Dqr4WqHKfybTzqVdqS4Fzg7U/EvqTPsDo9ylMDCXtel+fEIfWMtQnmubpnDjwjQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\CS 132\\MyFirstWebApp\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "c:\\Users\\User\\Desktop\\CS 132\\MyFirstWebApp\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
